@@ -1,0 +1,8 @@
+{
+  "attivo": true,
+  "titolo": "Aggiornamento disponibile",
+  "messaggio": "E' uscita una nuova versione con correzioni importanti.",
+  "obbligatorio": false,
+  "versione_minima": "1.0",
+  "url": "https://github.com/tuonome/tuorepo/releases"
+}
