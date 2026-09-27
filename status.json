@@ -2,7 +2,7 @@
   "attivo": true,
   "titolo": "a new version wait for you",
   "messaggio": "there is a new version of 14 tool.",
-  "obbligatorio": false,
-  "versione_minima": "1.0",
+  "obbligatorio": true,
+  "versione_minima": "1.1",
   "url": "https://github.com/tuonome/tuorepo/releases"
 }
